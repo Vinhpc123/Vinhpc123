@@ -1,6 +1,6 @@
 👋 Xin chào! Tôi là Thanh Vinh
 
-Tôi là một lập trình viên web đam mê, chuyên phát triển các ứng dụng và trang web đẹp mắt, thân thiện với người dùng. Với kinh nghiệm trong việc lập trình web tôi luôn tìm kiếm cách để nâng cao kỹ năng của mình và tạo ra những sản phẩm chất lượng.
+Tôi là một lập trình viên web, chuyên phát triển các ứng dụng và trang web đẹp mắt, thân thiện với người dùng. Với kinh nghiệm trong việc lập trình web tôi luôn tìm kiếm cách để nâng cao kỹ năng của mình và tạo ra những sản phẩm chất lượng.
 
 💼 Kỹ năng:
 - HTML, CSS, JavaScript, PHP, MySQL

@@ -1,8 +1,21 @@
-## Hi there 👋
+👋 Xin chào! Tôi là Thanh Vinh
 
+Tôi là một lập trình viên web đam mê, chuyên phát triển các ứng dụng và trang web đẹp mắt, thân thiện với người dùng. Với kinh nghiệm trong việc lập trình web tôi luôn tìm kiếm cách để nâng cao kỹ năng của mình và tạo ra những sản phẩm chất lượng.
+
+💼 Kỹ năng:
+- HTML, CSS, JavaScript, PHP, MySQL
+- Thiết kế giao diện người dùng (UI/UX)
+- Phát triển ứng dụng web responsive
+- NodeJS, React JS, ....
+
+  
+📫 Liên hệ với tôi:
+- Email: Vinh7085@gmail.com
+
+
+Hãy xem các dự án của tôi và đừng ngần ngại liên hệ nếu bạn có bất kỳ câu hỏi nào hoặc muốn hợp tác!
 <!--
 **Vinhpc123/Vinhpc123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## I'm Chris. I'm a web application UI developer & designer who lives in Charlotte, North Carolina. I love to work with TypeScript and Angular projects.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -2,7 +2,7 @@
 
 <!--
 **Vinhpc123/Vinhpc123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## I'm Chris. I'm a web application UI developer & designer who lives in Charlotte, North Carolina. I love to work with TypeScript and Angular projects.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

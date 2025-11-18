@@ -3,7 +3,7 @@
 Tôi là một lập trình viên web, chuyên phát triển các ứng dụng và trang web đẹp mắt, thân thiện với người dùng. Với kinh nghiệm trong việc lập trình web tôi luôn tìm kiếm cách để nâng cao kỹ năng của mình và tạo ra những sản phẩm chất lượng.
 
 💼 Kỹ năng:
-- HTML, CSS, JavaScript, PHP, MySQL
+- HTML, CSS, JavaScript, PHP, MySQL, MongoDB
 - Thiết kế giao diện người dùng (UI/UX)
 - Phát triển ứng dụng web responsive
 - NodeJS, React JS, ....

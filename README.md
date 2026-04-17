@@ -12,17 +12,16 @@
 
 Hi, I'm **Tran Thanh Vinh** — a **Full-stack Developer** with practical experience in building web applications using **React.js, Node.js, Express.js, and MongoDB**.
 
-Full-stack Developer Intern with hands-on experience in building web
+Full-stack Developer with hands-on experience in building web
 applications using ReactJS, Node.js, Express.js, and MongoDB. Familiar
 with developing responsive user interfaces, RESTful APIs, and full-stack
 project features. Passionate about learning, contributing to real-world
 projects, and growing in a collaborative development environment.
 
-- 🎓 **University:** University of Transport and Communications Ho Chi Minh City (UTH)
-- 📚 **Major:** Information Technology (2022 - 2026)
-- GPA: **3.30/4.0**
-- 🌱 Interested in building full-stack web applications and improving problem-solving skills
-- 🎯 Career goal: Become a professional Full-stack Developer through real product experience
+👨‍💻 Passionate about building practical full-stack web applications  
+🛠️ Working mainly with React.js, Node.js, Express.js, and MongoDB  
+📚 Always learning and improving through hands-on projects  
+🎯 Aspiring to become a professional Full-stack Developer
 
 ---
 
@@ -53,8 +52,4 @@ projects, and growing in a collaborative development environment.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
-
-<div align="center">
-  <i>"Trân trọng, Trần Thanh Vinh"</i>
-</div>
 
